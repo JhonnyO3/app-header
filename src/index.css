@@ -19,6 +19,7 @@ a:hover {
 #logo{
   font-size: 1.5rem;
   font-weight: bold;
+  margin-left: 1rem;
 }
 #header {
   box-sizing: border-box;
@@ -33,6 +34,7 @@ a:hover {
   display: flex;
   list-style: none;
   gap: .5rem;
+  margin-right: 4rem;
 }
 
 #menu a {
